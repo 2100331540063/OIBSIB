@@ -23,7 +23,7 @@ The code provided here demonstrates how to:
 
 To run the code, you'll need:
 
-- Python (version X.X.X)
+- Python
 - Libraries: Scikit-learn, Pandas
 
 **Run the Code:**
@@ -37,5 +37,5 @@ To run the code, you'll need:
 **File Structure**
 
 - `iris.csv`: Dataset containing features and target variables it is inside the archive.zip file.
-- `iris_classification.py`: Python script implementing data loading, preprocessing, model training, and evaluation.
+- `iris_classificationByShivamYadav.py`: Python script implementing data loading, preprocessing, model training, and evaluation.
 - `README.md`: You're currently reading .
