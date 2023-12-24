@@ -28,7 +28,7 @@ To run the code, you'll need:
 
 **Run the Code:**
     ```
-    python iris_classification.py
+    python iris_classificationByShivamYadav.py
     ```
 **Explore the Results:**
     - Check the console for the model's accuracy.
