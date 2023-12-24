@@ -27,7 +27,7 @@ To run the code, you'll need:
 - Libraries: Scikit-learn, Pandas
 
 **Run the Code:**
-    ```bash
+    ```
     python iris_classification.py
     ```
 **Explore the Results:**
@@ -36,6 +36,6 @@ To run the code, you'll need:
 
 **File Structure**
 
-- `iris.csv`: Dataset containing features and target variables.
+- `iris.csv`: Dataset containing features and target variables it is inside the archive.zip file.
 - `iris_classification.py`: Python script implementing data loading, preprocessing, model training, and evaluation.
 - `README.md`: You're currently reading .
